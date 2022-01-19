@@ -1,0 +1,40 @@
+{
+	"compiler": {
+		"version": "0.6.6+commit.6c089d02"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Router.sol": "BdogsLibrary"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Router.sol": {
+			"keccak256": "0x72b176ab115f12119da4ec86513dfb32e1f69820e5058ff5e2e2afa942747800",
+			"urls": [
+				"bzz-raw://3b297160f44a65ca1277fd2fb8ba4adfc932008058a74181dc33aead33f1d57c",
+				"dweb:/ipfs/QmahKPKVjdSFpqhihDeDNAxJcTjYYwJLU8AMJUM3Frtnhw"
+			]
+		}
+	},
+	"version": 1
+}
